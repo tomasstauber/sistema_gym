@@ -3,7 +3,7 @@ import { useState } from "react"
 import UserSidebar from "../UserSidebar/UserSidebar.jsx"
 import BuscarClases from "../BuscarClases/BuscarClases.jsx"
 import MisReservas from "../MisReservas/MisReservas.jsx"
-import MiPlan from "../MiPlan/MiPlan.jsx"
+import MiPlan from "../Miplan/MiPlan.jsx"
 import CalculadoraMacros from "../CalculadoraMacros/CalculadoraMacros.jsx"
 import { useAuth } from "../../context/AuthContext.jsx"
 
