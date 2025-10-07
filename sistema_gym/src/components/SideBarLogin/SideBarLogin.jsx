@@ -1,5 +1,5 @@
 import "./SidebarLogin.css"
-import imagenGym from "../../assets/mujer-fitness.jpg" 
+import imagenGym from '../../assets/mujer-fitness.jpg'
 
 export default function SidebarLogin() {
   return (
